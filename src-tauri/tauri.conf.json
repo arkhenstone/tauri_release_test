@@ -1,6 +1,6 @@
 {
   "build": {
-    "distDir": "../dist",
+    "distDir": "../dist/spa",
     "devPath": "http://localhost:4000",
     "beforeDevCommand": "",
     "beforeBuildCommand": ""
