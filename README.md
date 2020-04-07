@@ -1,6 +1,6 @@
 # Quasar App (tauri_release_test)
 
-A Quasar Framework app
+A Quasar Framework app !
 
 ## Install the dependencies
 ```bash
